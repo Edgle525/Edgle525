@@ -30,14 +30,13 @@ Sou Edglê, tenho 21 anos e atuo na área aeroportuária. Atualmente curso Anál
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroFerreira-dev/Edgle525/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroFerreira-dev/Edgle525/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/PedroFerreira-dev/Edgle525/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <img 
       align="left" 
@@ -47,3 +46,8 @@ Sou Edglê, tenho 21 anos e atuo na área aeroportuária. Atualmente curso Anál
   />
 
 </p>
+
+### 📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-edgl%C3%AA-beserra-ferreira-7a85b1246/)
+
