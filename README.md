@@ -2,10 +2,7 @@
 
 **`Estudante de programação`**
 
-Sou Edglê, tenho 21 anos e atuo na área aeroportuária. Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Guarulhos. Tenho grande interesse por tecnologia e estou em busca do meu primeiro estágio na área de TI, com o objetivo de aplicar meus conhecimentos, evoluir tecnicamente e iniciar minha trajetória profissional no mercado de tecnologia.
-
-### Projeto em ques estou trabalhando atualmente:
-* 🧸 **Catálogo de Brinquedos:** Uma aplicação backend robusta construída com **Java** e **Spring Boot**, com a arquitetura organizada e o banco de dados rodando em containers no **Docker**.
+Sou Edglê, tenho 21 anos e atuo na área aeroportuária. Atualmente curso Análise e Desenvolvimento de Sistemas na Cruzeiro do sul. Tenho grande interesse por tecnologia e estou em busca do meu primeiro estágio na área de TI, com o objetivo de aplicar meus conhecimentos, evoluir tecnicamente e iniciar minha trajetória profissional no mercado de tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
