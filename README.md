@@ -38,5 +38,5 @@ Sou Edglê, tenho 21 anos e atuo na área aeroportuária. Atualmente curso Anál
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-edgl%C3%AA-beserra-ferreira-7a85b1246/)
+[![LinkedIn](www.linkedin.com/in/josé-edglê-beserra-ferreira-993184421)
 
